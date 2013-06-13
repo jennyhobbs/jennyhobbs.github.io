@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://www.jennyhobbs.com/jennyhobbs.com/Blog</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
+    <item>
+      <title>Day of longboarding</title>
+      <link>http://www.jennyhobbs.com/jennyhobbs.com/Blog/Entries/2013/6/13_Day_of_longboarding.html</link>
+      <guid isPermaLink="false">685795e1-89c6-4f3b-927c-5746f0ada6a2</guid>
+      <pubDate>Thu, 13 Jun 2013 08:10:49 -0600</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.jennyhobbs.com/jennyhobbs.com/Blog/Entries/2013/6/13_Day_of_longboarding.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://www.jennyhobbs.com/jennyhobbs.com/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
