@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="8A82BD81-8391-4DAE-BF14-10D4ABAC00CA">
-  <lastEdited clientType="local-build-20130613" date="2013-06-13 16:13:19 +0000"/>
+  <lastEdited clientType="local-build-20130613" date="2013-06-13 16:33:22 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>&lt;b&gt;New Mexico thru my eyes.&lt;/b&gt;</richText>
   </textBox>
