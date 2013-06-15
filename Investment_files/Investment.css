@@ -55,6 +55,9 @@
     line-height: 26px;
     opacity: 1.00;
 }
+.style_External_630_67 {
+    position: relative;
+}
 .style_2 {
     font-family: 'Baskerville', 'Times New Roman', serif;
     font-size: 18px;
@@ -62,9 +65,6 @@
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
-}
-.style_External_630_67 {
-    position: relative;
 }
 .paragraph_style_2 {
     color: rgb(121, 121, 121);
@@ -197,7 +197,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_692_656 {
+.graphic_textbox_layout_style_default_External_692_679 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
