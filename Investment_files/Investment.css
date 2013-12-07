@@ -85,6 +85,14 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_3 {
+    font-family: 'Baskerville', 'Times New Roman', serif;
+    font-size: 17px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+}
 .paragraph_style_3 {
     color: rgb(121, 121, 121);
     font-family: 'Baskerville', 'Times New Roman', serif;
@@ -107,16 +115,8 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_3 {
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 17px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 23px;
-}
 .paragraph_style_4 {
-    color: rgb(255, 170, 121);
+    color: rgb(255, 126, 121);
     font-family: 'Baskerville', 'Times New Roman', serif;
     font-size: 17px;
     font-stretch: normal;
@@ -138,7 +138,7 @@
     text-transform: none;
 }
 .paragraph_style_5 {
-    color: rgb(121, 121, 121);
+    color: rgb(255, 170, 121);
     font-family: 'Baskerville', 'Times New Roman', serif;
     font-size: 17px;
     font-stretch: normal;
@@ -227,7 +227,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_692_679 {
+.graphic_textbox_layout_style_default_External_692_656 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

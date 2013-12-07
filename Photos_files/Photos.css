@@ -49,6 +49,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_1 {
+    padding: 0px;
+}
 .style_External_630_76 {
     position: relative;
 }
@@ -61,6 +64,9 @@
     float: none;
     margin: 0px;
     opacity: 1.00;
+}
+.style_External_247_32 {
+    position: relative;
 }
 .style_SkipStroke_3 {
     background: transparent;
@@ -87,6 +93,28 @@
     padding-bottom: 0px;
     padding-top: 0px;
     text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Caption {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;

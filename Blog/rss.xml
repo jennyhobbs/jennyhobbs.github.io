@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
   <channel>
-    <title>My Blog</title>
+    <title></title>
     <link>http://www.jennyhobbs.com/jennyhobbs.com/Blog/Blog.html</link>
-    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
+    <description>Cute pictures and captions of my life in New Mexico. This is my blog and I post what makes me happy. I hope you like it.</description>
     <generator>iWeb 3.0.4</generator>
     <image>
-      <url>http://www.jennyhobbs.com/jennyhobbs.com/Blog/Blog_files/dv1634003_c.jpg</url>
-      <title>My Blog</title>
+      <url>http://www.jennyhobbs.com/jennyhobbs.com/Blog/Blog_files/DSC_6043-2.jpg</url>
       <link>http://www.jennyhobbs.com/jennyhobbs.com/Blog/Blog.html</link>
     </image>
     <item>
-      <title>Day of longboarding</title>
-      <link>http://www.jennyhobbs.com/jennyhobbs.com/Blog/Entries/2013/6/13_Day_of_longboarding.html</link>
+      <title>Father’s Day</title>
+      <link>http://www.jennyhobbs.com/jennyhobbs.com/Blog/Entries/2013/6/2_Father_Days_pictures..html</link>
       <guid isPermaLink="false">685795e1-89c6-4f3b-927c-5746f0ada6a2</guid>
-      <pubDate>Thu, 13 Jun 2013 08:10:49 -0600</pubDate>
-      <description>&lt;a href=&quot;http://www.jennyhobbs.com/jennyhobbs.com/Blog/Entries/2013/6/13_Day_of_longboarding_files/AA043081_3x4a-1.jpg&quot;&gt;&lt;img src=&quot;http://www.jennyhobbs.com/jennyhobbs.com/Blog/Media/object001_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:183px; height:137px;&quot;/&gt;&lt;/a&gt;Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce  a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet,  nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
-      <enclosure url="http://www.jennyhobbs.com/jennyhobbs.com/Blog/Entries/2013/6/13_Day_of_longboarding_files/AA043081_3x4a-1.jpg" length="39269" type="image/jpeg"/>
+      <pubDate>Sun, 2 Jun 2013 08:10:49 -0600</pubDate>
+      <description>My boys are so lucky to have Jared (My husband, lover, friend, etc) as their dad. He is totally amazing and I really don’t have words to describe what a wonderful man he is.</description>
     </item>
   </channel>
 </rss>
