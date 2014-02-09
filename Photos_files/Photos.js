@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20130930
+// Created by iWeb 3.0.4 local-build-20140206
 
 function createMediaStream_id3()
 {return IWCreatePhotocast("http://www.jennyhobbs.com/jennyhobbs.com/Photos_files/rss.xml",true);}
@@ -23,7 +23,7 @@ function onPageLoad()
 IWRegisterNamedImage('movie overlay','Media/Photo-Overlay-Movie.png')
 loadMozillaCSS('Photos_files/PhotosMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');NotificationCenter.addObserver(null,relayoutMediaGrid_id3,'RangeChanged','id3')
-adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');Widget.onload();fixupAllIEPNGBGs();fixAllIEPNGs('Media/transparent.gif');fixupIECSS3Opacity('id5');initializeMediaStream_id3()
+adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');Widget.onload();fixAllIEPNGs('Media/transparent.gif');fixupIECSS3Opacity('id5');initializeMediaStream_id3()
 performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
