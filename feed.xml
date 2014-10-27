@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:2390872F-C951-4DEC-8108-38F7B9E3126F</id>
  <title>Page list Atom feed</title>
- <updated>2014-10-26T17:31:21-07:00</updated>
+ <updated>2014-10-26T18:13:42-07:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Welcome</title>
   <in-navbar xmlns="urn:iweb:">CE889C27-B693-4AB7-AAA0-749D0F78502A</in-navbar>
   <link rel="alternate" href="Welcome.html"/>
-  <updated>2014-10-26T17:31:21.001-07:00</updated>
+  <updated>2014-10-26T18:13:42.001-07:00</updated>
   <content>Welcome</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">About Me</title>
   <in-navbar xmlns="urn:iweb:">713318E8-B298-42BA-B525-668CADC8FFFB</in-navbar>
   <link rel="alternate" href="About_Me.html"/>
-  <updated>2014-10-26T17:31:21.002-07:00</updated>
+  <updated>2014-10-26T18:13:42.002-07:00</updated>
   <content>About Me</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Photos</title>
   <in-navbar xmlns="urn:iweb:">6F7B65FE-A368-4028-A54D-A70FC02D58F2</in-navbar>
   <link rel="alternate" href="Photos.html"/>
-  <updated>2014-10-26T17:31:21.003-07:00</updated>
+  <updated>2014-10-26T18:13:42.003-07:00</updated>
   <content>Photos</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Investment</title>
   <in-navbar xmlns="urn:iweb:">B77DE313-B112-4F5B-8A2A-1DE5B792009B</in-navbar>
   <link rel="alternate" href="Investment.html"/>
-  <updated>2014-10-26T17:31:21.004-07:00</updated>
+  <updated>2014-10-26T18:13:42.004-07:00</updated>
   <content>Investment</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Prepare for Session</title>
   <in-navbar xmlns="urn:iweb:">018CF98F-7B2D-4BC5-8278-5D22092DBE5F</in-navbar>
   <link rel="alternate" href="Prepare_for_Session.html"/>
-  <updated>2014-10-26T17:31:21.005-07:00</updated>
+  <updated>2014-10-26T18:13:42.005-07:00</updated>
   <content>Prepare for Session</content>
  </entry>
  <entry>
